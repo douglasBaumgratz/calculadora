@@ -13,7 +13,7 @@ class CalculadoraApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Calculadora(title: 'Calculadora1'),
+      home: Calculadora(title: 'Calculadora Simples'),
     );
   }
 }
